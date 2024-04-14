@@ -9,7 +9,8 @@ pip install -r requirements.txt
 ```
 
 ## usage 
-- Run 'python main.py'
+- Run 'python main.py', and follow the GUI.
+- Every time IK is executed 20 times and i use the one which is the closet to the present joint position. 
 
 # example
 <p align="center">
